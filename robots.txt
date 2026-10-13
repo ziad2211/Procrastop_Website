@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ziad2211.github.io/Procrastop_LandingPage/sitemap.xml
